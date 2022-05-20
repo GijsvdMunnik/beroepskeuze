@@ -8,8 +8,8 @@ De website bestaat uit 3 pagina's waar de gebruiker naar toe kan. De rest zijn l
 
 Vragen:
 
-![screenshot](images/screenshot1.png)
+![screenshot](Images/screenshot1.png)
 
 Uitkomst:
 
-![screenshot](images/screenshot2.png)
+![screenshot](Images/screenshot2.png)
