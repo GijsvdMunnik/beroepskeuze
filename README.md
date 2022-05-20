@@ -1,5 +1,15 @@
 # Informatie project beroepskeuzetest
 
-Op school had ik een website moeten maken dat aan de hand van vragen de opleiding die het meest bij jou paste jou zou proberen aan te raden. De site moest sprekend op de orginele pagina van het Koning Willem 1 college lijken. ook moest het responsive zijn
+Voor school heb ik deze berooepskeuze website moeten maken. Deze website geeft aan de hand van vragen de opleiding die het meest past bij de gegeven antwoorden. De website moest passen bij de huisstijl van het Koning Willem 1 college. Ook moest de layout responsive zijn.
 
-De website bestaat uit 3 paginas waar de gebruiker naar toe kan. De rest zijn linkjes naar de website van het Koning Willem 1 college.
+De website bestaat uit 3 pagina's waar de gebruiker naar toe kan. De rest zijn linkjes naar de website van het Koning Willem 1 college. De vragen en antwoorden en de keuze logica zijn geprogrameerd in PHP.
+
+## Screenshots
+
+Vragen:
+
+![screenshot](images/screenshot1.png)
+
+Uitkomst:
+
+![screenshot](images/screenshot2.png)
